@@ -1,1 +1,1 @@
-# VR-Slicing-Object-Unity
+# VR Slicing Object
